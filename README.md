@@ -24,7 +24,7 @@ This project explores the legal and ethical challenges of assigning liability in
 
 ## Author
 
-**Gabrijela Marić**  
+**Gabrijela M.**  
 AI & Data Analyst | Streamlit · Chatbots · Responsible AI
 [LinkedIn](https://www.linkedin.com/in/gabrijelamaric/)
 
