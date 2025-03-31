@@ -13,7 +13,6 @@ This project explores legal and ethical liability in artificial intelligence sys
 
 - `report.md` – core analysis covering liability perspectives and ethical questions
 - `references.md` – source material, academic works, and legal frameworks
-- `/docs/` – supporting visuals or background notes
 
 ## Key Themes
 
