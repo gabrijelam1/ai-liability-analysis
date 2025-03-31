@@ -1,53 +1,29 @@
-# Liability for Artificial Intelligence and Emerging Digital Technologies
+# AI Liability Analysis
 
-## Introduction
+This project explores legal and ethical liability in artificial intelligence systems, with a focus on case-based reasoning, academic research, and the evolving regulatory landscape in the European Union — particularly the EU AI Act.
 
-As artificial intelligence and digital technologies evolve rapidly, new challenges and opportunities arise for policymakers, entrepreneurs, and society. One critical legal challenge is determining liability—who should be held responsible when AI systems cause harm? Current liability laws are outdated, primarily designed for humans and traditional products rather than autonomous and complex AI systems.
+## Objectives
 
-Inspired by the European Commission's report on "Liability for Artificial Intelligence and Other Emerging Digital Technologies," this project analyzes existing legal frameworks, identifies gaps in current laws, and evaluates proposed reforms to address AI-related risks effectively.
+- Examine key dimensions of AI-related liability
+- Analyze real or hypothetical cases involving automated decision-making
+- Reflect on challenges related to accountability, transparency, and human oversight
+- Bridge the gap between academic theory and policy frameworks
 
-## Key Areas Explored
+## Structure
 
-### 1. Current Legal Frameworks
-- Fault-Based Liability
-- Strict Liability for High-Risk AI
+- `report.md` – core analysis covering liability perspectives and ethical questions
+- `references.md` – source material, academic works, and legal frameworks
+- `/docs/` – supporting visuals or background notes
 
-### 2. Challenges with AI Liability
-- AI Independence and Autonomy
-- Black Box Problem (lack of transparency)
-- Data Dependency and Bias Issues
-- Cross-border Liability Challenges
+## Key Themes
 
-### 3. Proposed Policy Recommendations
-- Revisions to the Product Liability Directive (PLD)
-- Mandatory Insurance for High-Risk AI Applications
-- Presumption of Causality (burden of proof shifts to creators)
+- Risk distribution in autonomous systems
+- Legal personhood and agency in AI
+- Preventive governance and transparency obligations
+- EU AI Act liability clauses and ethical implications
 
-## Discussion Highlights
-- Ethical considerations regarding AI's legal personhood vs. human accountability.
-- Challenges proving causation due to AI's complexity and opacity.
-- Balancing innovation with adequate legal protection.
+## Author
 
-## Project Structure
-
-    .
-    ├── README.md
-    ├── report.md (Full analytical paper)
-    ├── summary.md (Concise executive summary)
-    └── references.md (Sources and further reading)
-    
-
-## About Me
-
-**Conversational AI & AI Governance Specialist | Prompt Engineering & Generative AI Enthusiast**
-
-I'm passionate about prompt engineering and AI governance, exploring ethical considerations, accountability, and legal challenges posed by emerging technologies.
-
-This project was completed as part of my **Coursera AI & Law Certificate** from **Lund University**, and was required to earn the certificate with honors.
-
-
-## Contributions & Feedback
-
-Contributions, feedback, or discussions are welcome! Feel free to connect and collaborate.
-
-
+**Gabrijela Marić**  
+AI & Data Analyst | Streamlit · Chatbots · AI Governance
+[LinkedIn](https://www.linkedin.com/in/gabrijelamaric/)
