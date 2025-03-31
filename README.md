@@ -14,7 +14,6 @@ This project explores the legal and ethical challenges of assigning liability in
 - `report.md` – detailed analysis covering key legal, ethical, and governance perspectives  
 - `summary.md` – brief overview of project context and main takeaways  
 - `references.md` – supporting sources from academic, legal, and policy domains  
-- `/docs/` – placeholder for future visuals or additional documentation
 
 ## Key Themes
 
