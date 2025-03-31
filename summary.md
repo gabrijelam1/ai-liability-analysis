@@ -1,9 +1,12 @@
-# Executive Summary: Liability for AI and Digital Technologies
+# Project Summary – AI Liability Analysis
 
-This project examines the legal challenges around liability for harm caused by AI. Traditional laws struggle with AI’s complexity, autonomy, and global nature. 
+This project presents a research-driven report focused on the legal and ethical challenges of assigning liability in the context of artificial intelligence. It explores how existing legal frameworks attempt to address responsibility in cases involving AI systems and automated decision-making, with reference to ongoing policy discussions in the European Union.
 
-The analysis highlights:
-- Current limitations in fault-based and strict liability systems.
-- Proposed reforms, including updates to the Product Liability Directive, mandatory insurance, and shifting the burden of proof (presumption of causality).
+Framed by the evolving EU AI Act and the broader push for trustworthy AI, the report examines:
 
-The goal is balancing consumer protection with innovation, ensuring fair accountability without stifling technological growth.
+- Risk distribution and gaps in legal accountability  
+- The limitations of human oversight in complex systems  
+- Challenges in assigning blame to non-human actors  
+- Ethical implications around transparency, control, and fairness
+
+The project aims to highlight how legal and governance systems must adapt to AI complexity, and reflects the author's interest in responsible AI development, compliance, and digital policy.
