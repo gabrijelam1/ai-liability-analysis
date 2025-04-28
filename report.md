@@ -5,7 +5,7 @@ As artificial intelligence and digital technologies evolve rapidly, new challeng
 
 ## Facts and Technology
 
-AI technologies, including machine learning algorithms and autonomous systems, can operate independently and make decisions without direct human intervention. Unlike other products in the past, every time an AI is used or trained with more data, it learns anew, challenging current laws which generally assume foreseeability of acts. Modern AI decision-making systems are seen as black boxes, such as navigation algorithms in aircraft autopilots and medical diagnostics, which lack transparency making causation difficult to determine.
+AI technologies, including machine learning algorithms and autonomous systems, can operate independently and make decisions without direct human intervention. Unlike other products in the past, every time an AI is used or trained with more data, it learns a new, challenging current laws which generally assume foreseeability of acts. Modern AI decision-making systems are seen as black boxes, such as navigation algorithms in aircraft autopilots and medical diagnostics, which lack transparency making causation difficult to determine.
 
 The European Commission has recognized several key technological features of AI that pose problems for determining liability:
 
